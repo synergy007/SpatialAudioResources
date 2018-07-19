@@ -1,25 +1,5 @@
 # Spatial Audio: Compiled Readings + Resources
 
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- @synergy007 Sign out
-0
-0 1 synergy007/SpatialAudioResources
-forked from ArtsCodes/SpatialAudioResources
- Code  Pull requests 0  Projects 0  Wiki  Insights  Settings
-SpatialAudioResources/README.md
-ada6f92  8 minutes ago
-@synergy007 synergy007 Update README.md
-@ArtsDotCodes @synergy007
-     
-114 lines (57 sloc)  9.98 KB
-Spatial Audio: Compiled Readings + Resources
 Ahrens, Jens. Analytic Methods of Sound Field Synthesis. 2012 edition. Heidelberg ; New York: Springer, 2012.
 
 Baalman, Marije. “Spatial Composition Techniques and Sound Spatialisation Technologies.” Organised Sound 15 (December 1, 2010): 209–18. https://doi.org/10.1017/S1355771810000245.
